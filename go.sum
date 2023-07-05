@@ -1,0 +1,4 @@
+github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e h1:MRM5ITcdelLK2j1vwZ3Je0FKVCfqOLp5zO6trqMLYs0=
+github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e/go.mod h1:XV66xRDqSt+GTGFMVlhk3ULuV0y9ZmzeVGR4mloJI3M=
+github.com/yassun/go-bip21 v0.0.0-20190813103626-13a183e13826 h1:m47jaPX377o/YFPts+wHRB67TjFzO6wbxaD21ZiL/h8=
+github.com/yassun/go-bip21 v0.0.0-20190813103626-13a183e13826/go.mod h1:Zzelag4iuslA4JnqrHVkAVb9HCGJrFm41W+/Kt1PgE8=
